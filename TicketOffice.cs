@@ -71,19 +71,7 @@ namespace Ticket_Office_Assignment
             Console.WriteLine($"Ticket Number please!: {ticketNumber}");
 
         }
-        // OPTIONAL EXC 1/2 NEDANFÖR. Har ej tid. Får fortsätta med uppgifterna senare.
-        /*      
-                   public static int GetCustomerAge()
-                  {
-                    int age = 0;
-                    return age;
-                  }
-
-                  public static int GetCustomerPlacePreference() 
-                  {
-
-                  }
-        */
+       
     }
 }
 
